@@ -209,3 +209,5 @@ quantum_env/
 quantumenvironment/
 __pycache__/
 *.so
+quantum_env/
+quantumenv/
