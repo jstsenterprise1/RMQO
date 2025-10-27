@@ -1,0 +1,5 @@
+"Feature","IBM Quantum","IonQ","Rigetti"
+"Cost","FREE ✓","$0.30-1/task","FREE"
+"Qubits","5-127","11","19-80"
+"Error Rate","10^-3/gate","10^-4/gate","10^-3/gate"
+"Best for RMQO","START HERE","After validation","Backup"

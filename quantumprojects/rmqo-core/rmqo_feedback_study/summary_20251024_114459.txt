@@ -1,0 +1,20 @@
+RMQO ITERATIVE FEEDBACK LOOP STUDY
+======================================================================
+
+Iterations: 10
+Trials per iteration: 100
+Total trials: 1000
+
+Success Rates by Iteration:
+  Iteration 1: 14.0%
+  Iteration 2: 15.0%
+  Iteration 3: 14.0%
+  Iteration 4: 17.0%
+  Iteration 5: 14.0%
+  Iteration 6: 17.0%
+  Iteration 7: 14.0%
+  Iteration 8: 13.0%
+  Iteration 9: 15.0%
+  Iteration 10: 15.0%
+
+Improvement: +7%

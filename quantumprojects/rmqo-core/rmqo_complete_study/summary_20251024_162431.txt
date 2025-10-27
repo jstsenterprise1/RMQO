@@ -1,0 +1,11 @@
+RMQO COMPLETE EXPERIMENTAL STUDY
+======================================================================
+
+Timestamp: 20251024_162431
+
+RESULTS:
+  Baseline: 69.2%
+  Learned Bias: 70.3% (+2%)
+  Random Bias: 71.7% (+4%)
+
+Delta (Learned - Random): 2 percentage points

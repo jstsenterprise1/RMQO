@@ -1,0 +1,37 @@
+======================================================================
+RMQO DATA ANALYSIS REPORT
+======================================================================
+
+Dataset: complete_data_20251024_162431.csv
+Total Trials: 2500
+Phases: ['baseline', 'learned', 'random_control']
+Hamiltonians: ['H_AFM', 'H_FM', 'H_XZ', 'H_Mixed']
+
+SUCCESS SUMMARY:
+                count  sum   mean
+phase                            
+baseline          500  346  0.692
+learned          1000  703  0.703
+random_control   1000  717  0.717
+
+ENERGY STATISTICS:
+
+H_AFM:
+  Mean: +0.0009
+  Std:  0.4701
+  Range: [-1.8887, +2.2402]
+
+H_FM:
+  Mean: +0.0076
+  Std:  0.4692
+  Range: [-2.1602, +1.8184]
+
+H_XZ:
+  Mean: -0.0013
+  Std:  0.0805
+  Range: [-0.3000, +0.2959]
+
+H_Mixed:
+  Mean: +0.0005
+  Std:  0.0412
+  Range: [-0.1848, +0.1789]
